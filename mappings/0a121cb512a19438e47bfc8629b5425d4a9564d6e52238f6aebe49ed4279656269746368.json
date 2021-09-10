@@ -1,0 +1,54 @@
+{
+    "subject": "0a121cb512a19438e47bfc8629b5425d4a9564d6e52238f6aebe49ed4279656269746368",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Longtimecoming",
+        "signatures": [
+            {
+                "signature": "2c030227a2583a183aa0398228f62efc9eceb77111cdcb0c7a47475e2f7783edbf7dfe15a09e1e4fa091fbaf2f58de9bb168fdd044e5144528dd533672cd980d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "LTCB",
+        "signatures": [
+            {
+                "signature": "1efb721c761ea035ac1614821f71b2d9aa8790e82349a098a48bd452cb05e1e927683f0e35fed5e9eecd7915e65c51e6da7ca13cfe957013e61e268f03a09805",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "e32a54220298b4743346636a5a0793e24d1e5e0833f13d5d78f33288d6b2f48bf2beb9ec8b04494d2d2996eec4203fac3ec1ff116ddc5f5ea3275b232e16ec08",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a025963958200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAAdoAAAItCAMAAACpRUuhAAAAB3RJTUUH3QIWAiUkurIeKgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAARnQU1BAACxjwv8YQUAAAE4UExURf///wAAAAkJCQ0NDQ8PDxISEhMTExcXFxwcHB0dHR8fHyEhISQkJCYmJigoKC0tLS8vLzY2Njg4ODo6Ojs7Oz09PT8/P0BAQENDQ0hISExMTE1NTVBQUFJSUlNTU1ZWVldXV1lZWVxcXF5eXl9fX2FhYWNjY2ZmZmlpaWpqamtra21tbW9vb3BwcHJycnV1dXl5eXp6enx8fH9/f4GBgYKCgoSEhIWFhYmJiYqKiouLi4yMjI6Ojo+Pj5CQkJGRkZOTk5SUlJWVlZaWlpiYmJmZmZ6enp+fn6Ojo6WlpaioqKurq6ysrK2tra6urrKysrS0tLa2tre3t7i4uLq6ur6+vr+/v8XFxczMzM/Pz9HR0dLS0tXV1dzc3N/f3+Dg4OXl5ejo6Ovr6+/v7/Ly8vPz8/j4+P///6Y67VsAAAABdFJOUwBA5thmAAANl0lEQVR42u3d8X/bRhnH8StrBoyVpQwMwiQLDqarmWuKSwiQMgNRm42yMBecJiXFa+P0//8PaNOuiZM76R75ZN89/nx/T1+p3v5G0nMny5glzcG+LF9+aUgKOTWPclF6zfWvOWwJwD6WueaDVpZlDzhw0efZQ6Fsv5lBm0BO9qWVbWcZtAnkqbSyW2sZtCor28kyaBPIEyFsvr2RQZtAnj+SynazDFqNld3ZyKBNIOMvpLK9ZgZtAkOKg7zKlAJahZXtNzNoE6js47zilALauCOeK55PKaCNekghr2wny6CNP+K54tSUAtp4KyudK16aUkAb7ZDi4YxTCmjjjHyueGVKAW2clc1nn1JAq2JIYZtSQBvfkOIgDzKlgFZBZe1TCmgjq+zjPNSUAtqoIp8ruqcUU/l0wsFNrLIFU4rp3HWcov/OYZ9D5HPFwinFxaxtua6q/8hxrz0V5orFU4oL6Qycp2hoY6xsyZSiuLLfnqKhrTkV5oqlU4qiyp6foqGNba7oMaV4k2bfdoo+7zu0scl6TCnO0h6U9B3auGi9phSuyk73Hdpa8+KGMO+vVK/spb5DW2dG18TxoW32fEYc0KZH29rxmkpCmxqtvbKWEQe0idFaK2u9X4I2Ldqu/4gD2pRoN7YF90vQJkTbFa3qQpsMrbWyBau60KZC28mLR8bQJkprXb7L7xYtEUGbBK11+a5kiQjaBGjtlS1bIoI2ftpbtsrmpUtE0MZOa12+89nICm3ktNblO69dcdBGTWuvrN+uOGhjpm0NZtgVB228tPblO98tNtDGS2tdvsu3PXfFQRstrb2y3g8CQRst7caOdGQMbRq01uW74pExtCnQ2pfvfJ8qgDZe2u5MTxVAGzKHI0furzakee/Hv75jyy8/zqCdfxrODo5eSjPT3nNooSXQQgsttNBCCy200EJLoCXQQgsttNBCCy20BFoCLbTQQgsttNBCCy20BFpooYUWWmihhRZaaAm0BFpooYUWWmihhZZAS6CFFlpooYUWWmihhZZACy200EILLbTQQgstgZZACy200EILLbTQEmgJtNBCCy200EILLYGWQAsttNBCCy200EILLYEWWmihhRZaaKGFFloCLYEWWmihhRZaaKEl0BJooYUWWmihhRZaaKEl0EILLbTQQgsttNBCS6AlsdL+BRiltOu4qG1t76/7kjzYO0YyEdr2IPfPoJNl0KZB2+wLYPOttVc/8tvnUCZAK6ps3j37mdYYyuhpZZXd3sigdeRFZLStCpWF1pLTp49uxETb7Elgd1oZtPY8f5Tnn8TU2taORLbXzKC158nr43MjHlpZZQetqQ8FtNOVjYp2Y1si229m0BZUNibarqiy7ct/yqGdrmw8tLLKbjUzaIsrGw2trLIdywUYtNOVjYR2bVs8WIS2pLJx0HaqTSmgLapsDLRrW1UGi9CWVDYC2hCVhfZqZRdO29yqOFiEtqSyi6aVLd/1mhm0vpVdLK1s+W7QKpw+j6lsPLSyyvabGbSCyi6QVljZdtma0bLSnj5xHrQF0cqW77aaGbTWjL/I46IVLt91PFZ6l5L29KDouC2CVljZtQxacWUXQyuqrHtKMZXPT6nswmlly3euweLlHP/7T09k2f9GdWUXQNutobLyUfTrS+4j1ZWdO62ssjstb1nZKPrsLnmsurLzppVVttf0hW2KK5ulTOtT2fnSyv5mDvwr25ZXNmVar8rOlbYTcrBYea51Ptgaq67sHGmFlW17V1Z2k3zhIzNWXdn50coqO/CvrOwmeXDr/EfHqis7L1p5bvrJbsgqOzXYGquubOq0sivuS7PoserKpk0ru0m+Moseq65s0rTC0/eV5aPUaB/lS0IrHCxalo/Son3x3/urwY5u1LTtGSubHO0o4MGNmVY4pbAvH0EbIa3s+y5cy0fQRkcrnFI4V3yhjY1WOKVwr/hCGxltN0xloY2NVjilKNykkRbt4XXdtJ1glU2N9vTl7zXTCqcUZZs0UqJ99jC/o5j2luiWp3xf1f+SgT3Zz4PKRkYrnFJ47Ku67drGGpvs04e5Ztp24MoWnLh7n5/EBPv2QTyttMIphc9WSNeJ+9WnYi2is/C7B/GU0sq2P/lVduD+VET0/ND5Gq1OWtmU4u5slQ36aNjJwTMz2p8h57+aRlrZlMJrK6TrxP32UxGM9uz6J1AU0soq67N72XWt/e5TEYj2ZD/PoXXS1rB72VXZ809FGNqQlVVIG/6Bg9LKBqINW1l1tIG/yaToWnvqUxGANnBltdG2w1e2V/5MQQja4JWNmHZ1JM1PVr57Q5IfrHxcubKXdzvOShu+shHTNsT/VCP89tau727H2WjrqCy0VR41sGxQnom2lspCG6Kys9HOXtn7dyz5wxva1YYo15eB1lVZ+z6M6rSzV/bT94MdwpeNJaB13R53w369WIizbMBDuAS0romWc+tURdogZ1loBbTCylalDXRhDK03bVNa2Yq0oS6MofWlbQ8q7MOQ04a7l4XWj9Y1hC7ZhyGmDXgvC60XbaXKymkDjp8Gtz6Atpy2ebfq1qnmvxZU2X4z+xm0pbSutQCfrVMb9h/9R72V3Xm9Kskf5DJa5/Jdu/Jux1dtH9ZZ2TenCWhLaDd8VtxlE47XR35YY2XfniagLabt1lHZ7AptwMp2v/3MQVtE61oLmGHr1Ntr6mFNlb0wP4G2gLbrtUlGstvx3TX1sJbKDi6OPKF10q75r7gLKztFG7Cy078ZtC5ax1qAz0ugHF9ZdPE2eFhDZS/9ZtDaaV3Ld16V7ZXfBg+DV/bK+R9aK+1Mld3xuKYehq7s1Ut2aMPudXS9MOxyp4ZhK2sbjEEbltZ+u3S1U8OQlbXPspea1rUpfbUybdf3NnhoRoHnitBejPwnbgap7Bntw9/9PEx+4fhtoA1Ha7/2sk+uhuZvoU4S32lAWy+t/XbJNWwemnBfJP4jaGullVT2jPYatEnQ2geLBbfB0CZCa18LKJpcQZsErbiy0CZCK68stEnQ2tcCSofN0EZPa18LKF8fgjZy2oqVhTZ6Wvtg0WdJF9q4ae1rAT5LutBGTWuvbMn7J6BNgLYjf2UMtCnQ2tcCfCsLbby09rUA78pCGyttc9bKQhspbXvmykIbJa19LUBWWWgjpP3hT39j+3a8zUYGbeK0rnwILbTQLpT20LE/+T60qdO6MoIWWmihteSDvjDf+9AaaKOjbQQ7VtBCCy200EILLbTQQgsttNBCCy200EKbIu2h8xWyL8T/lvOfOoR2AbSRBlpooYUWWmihhRZaaKGFFlpooYU2wriHZNASaKGFFtqQtA17oE2fVlpmaKGFFlpooYUWWmihhRZaaKGFFlpooYUWWmihhRZaAi200EILLbTQQgsttGQBtKG2IkILLQlM63ym4T60idM6M4IWWmihhRZaaKGFFlpooYUWWmihhZZACy200EILLbTQQgstgRZaaKGFFlpol4p2VfTtv9AmRCv7zm5oo6N94ermKrSJ0zrTgBZaaKEl0EILLbRzoA34dmdo46Il0BJooYUWWmihhRZaAi2BFlpooYUWWmihhRZaAi200EILLbTQQgsttARaaKGFFlpooYUWWmgJtARaaKGFFlpooYWWQEughRZaaKGFFlpooYWWQAsttNBCC61XDl3fzPerhiOQJULrTJ82Q0ughRZaaKGFFlpooYWWQAsttNBCCy200EILLbTQEmihhRZaaKGFNjHa/0CrlPbPBlqltLvQKqW9fQytTto9Y6DVSLt5bKBVSbs7MdBqpN08MgZajbT3JgZajbTrB8ZAq5G2nspCu3Da9a+MgVYjbe8bA61K2voqC+1CaW8fG2hV0u4ZA61G2s1jA61K2t2JgVYh7e7ekTHQaqQdnRpoddK2xtBCCy200EILLbQEWmihhRZaaKFdUtpR3xHXV2B/hmUitM64fl2+3hxaaKGFFtoF5zPH1cfqtfdW7PkI2jTifqHOTeEj0tBCCy200EILLbTQQgsttNBCCy200EILLbTQQgsttNBCCy200EILbVDa+Tw6De0CaCcGWp20ewZalbS3jw20Kml3jYFWI+3mkYFWJe3uxECrkXY9hspCWwPtvYmBViNtXW8YgHbRtL2JgVYj7fpXxkCrkbbONwxAu0jaPWOg1Ui7+MEitPXQxlZZaAPRbh4baFXS7k4MtAppe3tHxkCrkXb31ECr9A/yGFpooYUWWmir0F53feVqA9pEaF1xfyMhtNBCCy200EILLbTQQgsttNBCCy20cydcET4gDW0ytDehhRZaaKGFFlpooZ0L7QharbT70Gql/Se0WmkfQAsttNBCCy200EILLbTQQgsttNBCCy200EILLbTQQgsttNBCCy200EILLbTQQgsttNAumnb9a2iV0u4aaJXS7kGrkzaiF61BG5T23sRAq5E2wcpCq7ay0KqtbCHtSElWHf+/j1RXtpBWe1ZUVxbahN5ADG1A2rjeQAxtONrI3kAMbSjaxCsLrdrKQqu2stCqrSy0aisLrSW3jw20Kmn3jIFWI62aykKrtrLQqq0stGorC63aykKrtrLQvs3msYFWJe3uxECrkXbzyBhoNdLqrCy0aisLrdrKLjut4souNe331zVX9lWe9Zc0IzMH2P8D9/UrunFT/2QAAAAASUVORK5CYII=",
+        "signatures": [
+            {
+                "signature": "03603b63b8ecd3e8c7a02cc286d8816dbf61a9dcab750ca19fd4cbe09b9352d72677a64d964ef44281c770821ad6448163294625969b7c594378fe8fae43b30f",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": " For those bitchs that deserve the finger.google 3825968",
+        "signatures": [
+            {
+                "signature": "34d251f457be419d53e64d8fa2f6ec925ff8c4f75100ff8527e7a97fc36df7e49f24c6814e59d9277818429f08f71a928d4aa8ea76eaeec6f81b81732a97160e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
